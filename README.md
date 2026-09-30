@@ -99,7 +99,6 @@ Gross Profit is defined as Revenue minus (Units Sold times Unit Cost). Delivery 
 
 The report includes synced Region and Year slicers, a Region to County to City to Branch drill-down and cross-filtering between visuals.
 
-![Executive Dashboard](screenshots/dashboard-executive.png)
 
 ---
 
