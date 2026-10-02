@@ -131,7 +131,7 @@ The report includes synced Region and Year slicers, a Region to County to City t
 
 Monetary values, exchange rates and category standardizations reflect assumptions made during this project and are documented in full, along with their reasoning, in the project documentation article. Where the available data did not provide enough evidence to confidently resolve an issue, the value was left as missing rather than estimated.
 
-## 📝 Project Article
+##  Project Article
 
 Read the full project walkthrough on Dev.to:
 
